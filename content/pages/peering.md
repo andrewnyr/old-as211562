@@ -36,6 +36,7 @@ layout: page
 
 *   andrewnet currently is only on the [Experimental Virtual Internet Exchange](https://evix.org/).
 
-\<!---->
+
 
 *   andrewnet has a main peering and bgp router located in toronto with the upstream, [GoCodeIt](https://bgp.he.net/AS62513)
+
