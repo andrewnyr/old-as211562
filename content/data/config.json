@@ -56,7 +56,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; <a href=\"https://www.andrewnet.net\" target=\"_blank\" rel=\"noopener\">part of the andrewnet family of sites</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; <a href=\"https://www.andrewnet.net\" target=\"_blank\" rel=\"noopener\">part of the andrewnet family of sites</a>."
     },
     "domain": "https://www.as211562.net",
     "favicon": "images/a-circle-favicon-inverted-vector.svg"
