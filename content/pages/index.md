@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: AS211562
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      welcome to the homepage of my personal network, as211562. this mainly
+      exists for educational purposes as i navigate the intricacies of advanced
+      network topologies.
   - section_id: about
     type: section_content
     title: About
