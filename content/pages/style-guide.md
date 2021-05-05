@@ -1,9 +1,8 @@
 ---
 title: Peering
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  andrewnet has a very open peering policy and is willing to peer through a
+  mutual exchange or through a tunnel (vxlan preferred)
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
