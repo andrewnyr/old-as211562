@@ -30,8 +30,12 @@ seo:
       relativeUrl: true
 layout: page
 ---
-*   andrewnet has a very open peering policy and is willing to peer through a mutual exchange or through a vpn (vxlan preferred)
+*   andrewnet has a very open peering policy and is willing to peer through a mutual exchange or through a vpn (vxlan preferred).
 
 <!---->
 
-*   andrewnet currently is only on the [Experimental Virtual Internet Exchange ](https://evix.org/)
+*   andrewnet currently is only on the [Experimental Virtual Internet Exchange](https://evix.org/).
+
+\<!---->
+
+*   andrewnet has a main peering and bgp router located in toronto with the upstream, [GoCodeIt](https://bgp.he.net/AS62513)
