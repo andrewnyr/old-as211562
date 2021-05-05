@@ -4,7 +4,7 @@ subtitle: >-
   andrewnet has a very open peering policy and is willing to peer through a
   mutual exchange or through a tunnel (vxlan preferred)
 seo:
-  title: Peering - andre
+  title: Peering - AS211562
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
