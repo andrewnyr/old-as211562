@@ -1,6 +1,6 @@
 ---
 title: About My Network
-subtitle: This is a short page about me and my work.
+subtitle: AS211562 is a small IPv6-only educational network operated by Andrew Asciutto.
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
