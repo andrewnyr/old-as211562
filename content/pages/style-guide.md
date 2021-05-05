@@ -5,7 +5,7 @@ subtitle: >-
   mutual exchange or through a tunnel (vxlan preferred)
 seo:
   title: Peering - AS211562
-  description: A reference for suggested typographic treatment and styles for your content
+  description: The peering policy of the official network of andrewnet.net
   extra:
     - name: 'og:type'
       value: website
