@@ -18,7 +18,6 @@ sections:
       network topologies.
     actions:
       - label: Abuse
-        url: '#'
         style: link
         icon_class: dev
         new_window: false
