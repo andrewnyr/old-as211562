@@ -69,7 +69,7 @@ seo:
     - name: 'twitter:description'
       value: The official network of andrewnet.net
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/nyc-bryant.jpg
       relativeUrl: true
 layout: advanced
 ---
