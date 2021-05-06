@@ -26,13 +26,16 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
+          - Peering
+          - Abuse
+          - General Inquiry
           - Other
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
         default_value: Your message
+        is_required: true
       - input_type: checkbox
         name: consent
         label: >-
