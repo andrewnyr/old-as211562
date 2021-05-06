@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Peering - AS211562
     - name: 'twitter:description'
-      value: This is the about me page
+      value: AS211562 is willing to peer with anyone.
     - name: 'twitter:image'
       value: /images/nyc-bryant.jpg
       relativeUrl: true
