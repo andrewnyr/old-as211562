@@ -12,9 +12,6 @@ seo:
     - name: 'og:title'
       value: Abuse
       keyName: property
-    - name: 'og:description'
-      value: This is the about me page
-      keyName: property
     - name: 'og:image'
       value: images/about.jpg
       keyName: property
