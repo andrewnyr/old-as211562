@@ -17,7 +17,7 @@ sections:
       exists for educational purposes as i navigate the intricacies of advanced
       network topologies.
     actions:
-      - label: lorem-ipsum
+      - label: Abuse
         url: '#'
         style: link
         icon_class: dev
