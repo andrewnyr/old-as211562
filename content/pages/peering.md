@@ -13,7 +13,7 @@ seo:
       value: Peering - AS211562
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: AS211562 is willing to peer with anyone.
       keyName: property
     - name: 'og:image'
       value: /images/nyc-bryant.jpg
