@@ -44,7 +44,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact - AS211562
       keyName: property
     - name: 'og:description'
       value: Contact the network operator of AS211562
