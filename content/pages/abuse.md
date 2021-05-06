@@ -4,7 +4,7 @@ subtitle: AS211562 is a small IPv6-only educational network operated by Andrew A
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: Abuse
-  description: This is the about me page
+  description: Report suspect abuse of the andrewnet network
   extra:
     - name: 'og:type'
       value: website
