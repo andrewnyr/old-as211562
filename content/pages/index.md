@@ -67,7 +67,7 @@ seo:
     - name: 'twitter:title'
       value: AS211562
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: The official network of andrewnet.net
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
