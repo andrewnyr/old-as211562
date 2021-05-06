@@ -47,7 +47,7 @@ sections:
         type: action
 seo:
   title: AS211562
-  description: The preview of the Fresh theme
+  description: The official network of andrewnet.net
   extra:
     - name: 'og:type'
       value: website
