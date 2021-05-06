@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Me
+      value: Abuse
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
