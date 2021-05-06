@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Peering
-          - Sponsorship
+          - Abuse
           - Other
       - input_type: textarea
         name: message
