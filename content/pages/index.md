@@ -23,6 +23,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        url: /abuse
       - label: PeeringDB
         url: 'https://www.peeringdb.com/asn/211562'
         style: link
