@@ -20,10 +20,6 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - section_id: recent-posts
-    type: section_posts
-    posts_number: 4
-    actions: []
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
