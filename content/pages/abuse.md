@@ -25,6 +25,10 @@ seo:
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
+    - name: 'og:description'
+      value: Report suspect abuse of the andrewnet network
+      keyName: property
+      relativeUrl: false
 layout: page
 ---
 **
