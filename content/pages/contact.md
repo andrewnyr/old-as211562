@@ -47,7 +47,7 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Contact the network operator of AS211562
       keyName: property
     - name: 'twitter:card'
       value: summary
