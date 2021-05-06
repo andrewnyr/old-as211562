@@ -39,7 +39,7 @@ sections:
         no_follow: false
         type: action
       - label: BGP.HE.NET
-        url: '#'
+        url: 'https://bgp.he.net/AS211562'
         style: link
         icon_class: dev
         new_window: false
