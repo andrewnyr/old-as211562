@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "about",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
                 "label": "peering",
                 "url": "/peering/",
                 "style": "link"
