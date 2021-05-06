@@ -8,7 +8,7 @@
         "tagline": "Andrew Asciutto",
         "profile_img": "images/a-circle-favicon-inverted-vector.svg",
         "profile_img_alt": "andrewnet",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
