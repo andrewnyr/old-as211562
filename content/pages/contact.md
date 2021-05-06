@@ -38,7 +38,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact
-  description: This is the contact page
+  description: Contact the network operator of AS211562
   extra:
     - name: 'og:type'
       value: website
