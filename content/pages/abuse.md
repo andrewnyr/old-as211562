@@ -31,4 +31,4 @@ seo:
       relativeUrl: false
 layout: page
 ---
-**
+while andrewnet does not tolerate any illegal activities of any kind, we will also ignore any request from any law enforcement agency that does not have jurisdiction in the areas in which andrewnet operates.
