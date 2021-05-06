@@ -25,7 +25,7 @@ sections:
         no_follow: false
         type: action
       - label: PeeringDB
-        url: '#'
+        url: 'https://www.peeringdb.com/asn/211562'
         style: link
         icon_class: dev
         new_window: false
