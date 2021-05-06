@@ -59,7 +59,7 @@ seo:
       value: The official network of andrewnet.net
       keyName: property
     - name: 'og:image'
-      value: /images/andrewnet%20vector.svg
+      value: /images/nyc-bryant.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
