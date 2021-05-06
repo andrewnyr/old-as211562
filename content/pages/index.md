@@ -59,7 +59,7 @@ seo:
       value: The official network of andrewnet.net
       keyName: property
     - name: 'og:image'
-      value: /images/a-circle-favicon-inverted-vector.svg
+      value: /images/andrewnet%20vector.svg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
