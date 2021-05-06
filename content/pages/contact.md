@@ -4,7 +4,10 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: >
+      To get in touch please fill the form below. Contact me at anytime day or
+      night and be sure that I will get back to you at the earliest possible
+      convenience.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
