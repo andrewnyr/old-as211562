@@ -53,7 +53,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: AS211562
       keyName: property
     - name: 'og:description'
       value: The preview of the Fresh theme
