@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Abuse
+      value: Abuse - AS211562
     - name: 'twitter:description'
       value: Report suspect abuse of the andrewnet network
     - name: 'twitter:image'
