@@ -17,9 +17,6 @@ sections:
       exists for educational purposes as i navigate the intricacies of advanced
       network topologies.
     actions:
-      - label: Contact Me
-        url: /contact
-        style: button
       - label: lorem-ipsum
         url: '#'
         style: link
