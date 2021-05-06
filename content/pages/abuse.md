@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:title'
       value: Abuse
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Report suspect abuse of the andrewnet network
     - name: 'twitter:image'
       value: /images/nyc-bryant.jpg
       relativeUrl: true
