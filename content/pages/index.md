@@ -32,7 +32,7 @@ sections:
         no_follow: false
         type: action
       - label: BGP Tools
-        url: '#'
+        url: 'https://bgp.tools/as/211562'
         style: link
         icon_class: dev
         new_window: false
