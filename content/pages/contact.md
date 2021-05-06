@@ -28,7 +28,7 @@ sections:
         options:
           - Peering
           - Abuse
-          - Other
+          - General Inquiry
       - input_type: textarea
         name: message
         label: Message
