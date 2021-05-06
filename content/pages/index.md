@@ -56,7 +56,7 @@ seo:
       value: AS211562
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: The official network of andrewnet.net
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
