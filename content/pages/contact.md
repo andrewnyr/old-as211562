@@ -59,5 +59,9 @@ seo:
       value: /images/nyc-bryant.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/nyc-bryant.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
