@@ -31,4 +31,10 @@ seo:
       relativeUrl: false
 layout: page
 ---
-while andrewnet does not tolerate any illegal activities of any kind, we will also ignore any request from any law enforcement agency that does not have jurisdiction in the areas in which andrewnet operates.
+## Law Enforcement
+
+while andrewnet does not tolerate any illegal activities of any kind, we will also ignore any request from any law enforcement agency that does not have jurisdiction in the areas in which andrewnet operates. to contact me, please reach out through my contact form.
+
+## Non-Law Enforcement
+
+andrewnet will most likely not cooperate with any requests of information if you are not a representative of a law enforcement agency. however, you may reach out at our contact form.
