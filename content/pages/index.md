@@ -46,7 +46,7 @@ sections:
         no_follow: false
         type: action
 seo:
-  title: Stackbit Fresh Theme
+  title: AS211562
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
