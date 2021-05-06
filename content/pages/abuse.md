@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/nyc-bryant.jpg
       relativeUrl: true
     - name: 'og:description'
       value: Report suspect abuse of the andrewnet network
