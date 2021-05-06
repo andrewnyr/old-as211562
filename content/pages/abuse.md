@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Abuse
+      value: Abuse - AS211562
       keyName: property
     - name: 'og:image'
       value: /images/nyc-bryant.jpg
