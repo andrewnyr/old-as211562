@@ -37,7 +37,7 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
+  title: Contact - AS211562
   description: Contact the network operator of AS211562
   extra:
     - name: 'og:type'
