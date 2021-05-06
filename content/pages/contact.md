@@ -30,6 +30,7 @@ sections:
           - Abuse
           - General Inquiry
           - Other
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
