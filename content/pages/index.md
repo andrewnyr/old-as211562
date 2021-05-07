@@ -45,6 +45,13 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: QRATOR
+        url: 'https://radar.qrator.net/as211562'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
 seo:
   title: AS211562
   description: The official network of andrewnet.net
