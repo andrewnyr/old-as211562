@@ -46,7 +46,7 @@ sections:
         no_follow: false
         type: action
       - label: qrator
-        url: '#'
+        url: 'https://radar.qrator.net/as211562'
         style: link
         icon_class: dev
         new_window: false
