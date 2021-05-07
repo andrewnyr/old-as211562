@@ -47,7 +47,7 @@ sections:
         type: action
       - label: QRATOR
         url: 'https://radar.qrator.net/as211562'
-        style: button
+        style: link
         icon_class: dev
         new_window: false
         no_follow: false
