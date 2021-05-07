@@ -40,7 +40,7 @@ sections:
         type: action
       - label: BGP.HE.NET
         url: 'https://bgp.he.net/AS211562'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false
