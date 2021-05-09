@@ -38,9 +38,9 @@ layout: page
 
 *   andrewnet currently is only on the [Experimental Virtual Internet Exchange](https://evix.org/).
 
-*   andrewnet main peering router is located in toronto with the upstream, [GoCodeIt](https://bgp.he.net/AS62513)
+*   andrewnet main peering router is located in toronto with the upstream, [GoCodeIt](https://bgp.he.net/AS62513).
 
-*   the range broadcasted from this pop is [2605:f440:9f90::/48](https://bgp.he.net/net/2605:f440:9f90::/48)
+*   the range broadcasted from this pop is [2605:f440:9f90::/48](https://bgp.he.net/net/2605:f440:9f90::/48).
 
 ## New Jersey
 
@@ -48,4 +48,4 @@ layout: page
 
 *   andrewnet's New Jersey pop obtains transit over a GRE tunnel to upstream, [Global Secure Layer](https://bgp.he.net/AS137409).
 
-*   the range broadcasted from this pop is [2605:f440:6969::/48](https://bgp.he.net/net/2605:f440:6969::/48)
+*   the range broadcasted from this pop is [2605:f440:6969::/48.](https://bgp.he.net/net/2605:f440:6969::/48)
