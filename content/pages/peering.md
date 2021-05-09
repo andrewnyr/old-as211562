@@ -46,6 +46,6 @@ layout: page
 
 *   andrewnet does have a selective policy for who is able to peer with his New Jersey/New York pop due to the fact that he runs a production connection off of this.
 
-*   andrewnet's New Jersey pop obtains transit over a GRE tunnel to [Global Secure Layer](https://bgp.he.net/AS137409).
+*   andrewnet's New Jersey pop obtains transit over a GRE tunnel to upstream, [Global Secure Layer](https://bgp.he.net/AS137409).
 
 *   the range broadcasted from this pop is [2605:f440:6969::/48](https://bgp.he.net/net/2605:f440:6969::/48)
