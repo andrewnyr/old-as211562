@@ -40,4 +40,4 @@ layout: page
 
 *   andrewnet main peering router is located in toronto with the upstream, [GoCodeIt](https://bgp.he.net/AS62513)
 
-*   the range broadcasted from this pop is \`[2605:f440:9f90::/48](https://bgp.he.net/net/2605:f440:9f90::/48)\`
+*   the range broadcasted from this pop is [2605:f440:9f90::/48](https://bgp.he.net/net/2605:f440:9f90::/48)
