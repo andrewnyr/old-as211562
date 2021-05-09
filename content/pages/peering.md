@@ -48,4 +48,4 @@ layout: page
 
 *   andrewnet's New Jersey pop obtains transit over a GRE tunnel to upstream, [Global Secure Layer](https://bgp.he.net/AS137409).
 
-*   the range broadcasted from this pop is [2605:f440:6969::/48.](https://bgp.he.net/net/2605:f440:6969::/48)
+*   the range broadcasted from this pop is [2605:f440:6969::/48](https://bgp.he.net/net/2605:f440:6969::/48).
