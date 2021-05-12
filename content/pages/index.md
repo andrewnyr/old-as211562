@@ -52,8 +52,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
