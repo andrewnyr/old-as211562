@@ -58,10 +58,10 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      *   <https://kagl.me> - IPv6 Prefix(s)
-
-
       *   <https://www.bakker-it.eu> - IPv6 Prefix(s)
+
+
+      <!---->
 
 
       *   <https://globalsecurelayer.com> - BGP Tunnel
