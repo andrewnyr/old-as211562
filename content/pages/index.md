@@ -55,17 +55,19 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      *   <https://kagl.me> - IPv6 Prefix(s)
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+      *   <https://www.bakker-it.eu> - IPv6 Prefix(s)
 
 
-      - Lorem ipsum
 
-      - dolor sit amet
+
+      andrewnet is a small network operated by a broke college student. if you
+      would like to support me in my goals by hosting a node or allocating a
+      prefix, please contact me.
     actions: []
     type: section_content
 seo:
