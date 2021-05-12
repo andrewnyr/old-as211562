@@ -54,17 +54,10 @@ sections:
         type: action
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      andrewnet is a small network operated by a broke college student. if you
+      would like to support me in my goals by hosting a node or allocating a
+      prefix, please contact me.
     actions: []
     type: section_content
 seo:
