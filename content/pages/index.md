@@ -2,12 +2,6 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: |
-      ![](/images/as211562%20logo.svg)
-    actions: []
-    type: section_content
   - section_id: hero
     type: section_hero
     content: >
