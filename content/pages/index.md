@@ -4,8 +4,10 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: AS211562
     content: >
+      ![](/images/as211562%20logo.svg)
+
+
       welcome to the homepage of my personal network, as211562. this mainly
       exists for educational purposes as i navigate the intricacies of advanced
       network topologies.
@@ -52,6 +54,25 @@ sections:
         new_window: false
         no_follow: false
         type: action
+  - title: Supporters
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >
+      *   <https://www.bakker-it.eu> - IPv6 Prefix(s)
+
+
+      <!---->
+
+
+      *   <https://globalsecurelayer.com> - BGP Tunnel
+
+
+      andrewnet is a small network operated by a broke college student. if you
+      would like to support me in my goals by hosting a node, providing a
+      tunnel, or allocating a prefix, please [contact
+      me](https://www.as211562.net/contact/).
+    actions: []
+    type: section_content
 seo:
   title: AS211562
   description: The official network of andrewnet.net
