@@ -10,7 +10,6 @@ sections:
     type: section_content
   - section_id: hero
     type: section_hero
-    title: AS211562
     content: >
       welcome to the homepage of my personal network, as211562. this mainly
       exists for educational purposes as i navigate the intricacies of advanced
