@@ -55,6 +55,16 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
+      ## Supporters
+
+
+      *   <https://kagl.me> - IPv6 Prefix(s)
+
+
+      *   [https://www.bakker-it.eu](https://www.bakker-it.eu/) - IPv6 Prefix(s)
+
+
+
       andrewnet is a small network operated by a broke college student. if you
       would like to support me in my goals by hosting a node or allocating a
       prefix, please contact me.
