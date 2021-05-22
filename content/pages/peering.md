@@ -38,7 +38,9 @@ layout: page
 
 *   andrewnet currently is only on the [Experimental Virtual Internet Exchange](https://evix.org/).
 
-*   andrewnet main peering router is located in toronto with the upstream, [GoCodeIt](https://bgp.he.net/AS62513).
+*   andrewnet's Toronto peering router is located with the upstream, [GoCodeIt](https://bgp.he.net/AS62513).
+
+<!---->
 
 *   the range broadcasted from this pop is [2605:f440:9f90::/48](https://bgp.he.net/net/2605:f440:9f90::/48).
 
@@ -50,5 +52,16 @@ layout: page
 
 *   the range broadcasted from this pop is [2605:f440:6969::/48](https://bgp.he.net/net/2605:f440:6969::/48).
 
-![](/images/211562-5.12.21-map-new.png)
+## Netherlands
 
+*   andrewnet has a very open peering policy for his Netherlands pop and is willing to peer through a tunnel (vxlan preferred).
+
+<!---->
+
+*   andrewnet's Netherlands peering router is located with the upstream, [Bakker IT](https://bgp.he.net/AS44103).
+
+<!---->
+
+*   the range broadcasted from this pop is [2a0e:fd45:2b00::/44](https://bgp.he.net/net/2a0e:fd45:2b00::/44).
+
+![](/images/211562-5.12.21-map-new.png)
