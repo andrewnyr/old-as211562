@@ -64,10 +64,4 @@ layout: page
 
 *   the range broadcasted from this pop is [2a0e:fd45:2b00::/44](https://bgp.he.net/net/2a0e:fd45:2b00::/44).
 
-\<!---->
-
-
-
-
-
 ![](/images/211562-5.12.21-map-new.png)
