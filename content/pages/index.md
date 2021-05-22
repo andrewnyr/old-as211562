@@ -58,10 +58,12 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
+      *   <https://www.bakker-it.eu> - IPv6 Prefix(s) and Compute
+
+
+
+
       *   <https://kagl.me> - IPv6 Prefix(s)
-
-
-      *   <https://www.bakker-it.eu> - IPv6 Prefix(s)
 
 
       <!---->
