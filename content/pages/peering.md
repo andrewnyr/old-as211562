@@ -1,6 +1,6 @@
 ---
 title: Peering
-subtitle: AS211562 is a small IPv6-only educational network operated by Andrew Asciutto.
+subtitle: AS211562 is a small educational network operated by Andrew Asciutto.
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: Peering - AS211562
