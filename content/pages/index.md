@@ -61,8 +61,6 @@ sections:
       *   <https://www.bakker-it.eu> - IPv6 Prefix(s) and Compute
 
 
-
-
       *   <https://kagl.me> - IPv6 Prefix(s)
 
 
@@ -70,6 +68,8 @@ sections:
 
 
       *   <https://globalsecurelayer.com> - BGP Tunnel
+
+      *   <https://ihost.group/> - IPv6 Prefix(s)
 
 
       andrewnet is a small network operated by a broke college student. if you
