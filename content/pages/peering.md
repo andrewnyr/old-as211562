@@ -68,8 +68,6 @@ layout: page
 
 *   andrewnet has a very open peering policy for his Fremont pop and is willing to peer through a tunnel (vxlan preferred).
 
-*   andrewnet's Fremont peering router is located with the upstream, Eric at Hurricane Electric's FMT2 Data Center. 
+*   andrewnet's Fremont peering router is located with the upstream, Eric at Hurricane Electric's FMT2 Data Center.
 
-
-
-*   the range broadcasted from this pop is [2a0e:fd45:2b00::/44](https://bgp.he.net/net/2a0e:fd45:2b00::/44).
+*   the range broadcasted from this pop is [2605:f440:9f91::/48](https://bgp.he.net/net/22605:f440:9f91::/48).
