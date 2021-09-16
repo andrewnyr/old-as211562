@@ -38,7 +38,7 @@ layout: page
 
 *   andrewnet currently is only on the [Experimental Virtual Internet Exchange](https://evix.org/).
 
-*   andrewnet's Toronto peering router is located with the upstream, [GoCodeIt](https://bgp.he.net/AS62513). This box is hosted on the cloud provider, [Xenyth](https://xenyth.net/?affid=29). 
+*   andrewnet's Toronto peering router is located with the upstream, [GoCodeIt](https://bgp.he.net/AS62513). This box is hosted on the cloud provider, [Xenyth](https://xenyth.net/?affid=29) at Equinix TR2.
 
 <!---->
 
@@ -68,8 +68,8 @@ layout: page
 
 *   andrewnet has a very open peering policy for his Fremont pop and is willing to peer through a tunnel (vxlan preferred).
 
-*   andrewnet's Netherlands peering router is located with the upstream, [Bakker IT](https://bgp.he.net/AS44103).\<!---->
+*   andrewnet's Fremont peering router is located with the upstream, Eric at Hurricane Electric's FMT2 Data Center. 
 
-<!---->
+
 
 *   the range broadcasted from this pop is [2a0e:fd45:2b00::/44](https://bgp.he.net/net/2a0e:fd45:2b00::/44).
