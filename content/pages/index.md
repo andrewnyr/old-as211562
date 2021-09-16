@@ -60,6 +60,12 @@ sections:
         icon_class: dev
         new_window: false
         no_follow: false
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
   - title: Supporters
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
