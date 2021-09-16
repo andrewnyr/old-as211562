@@ -61,7 +61,7 @@ sections:
         new_window: false
         no_follow: false
       - label: IPinfo
-        url: '#'
+        url: 'https://ipinfo.io/AS211562'
         style: link
         icon_class: dev
         new_window: false
