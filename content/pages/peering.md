@@ -2,7 +2,7 @@
 title: Peering
 subtitle: >-
   To peer with me please read the information about my points-of-presence (POPs)
-  below and then submit a request [Experimental Virtual Internet Exchange](https://evix.org/)
+  below and then submit a request [here](https://evix.org/)
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: Peering - AS211562
