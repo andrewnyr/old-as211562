@@ -2,7 +2,7 @@
 title: Peering
 subtitle: >-
   To peer with me please read the information about my points-of-presence (POPs)
-  below and then submit a request [here](https://www.as211562.net/contact/).
+  below and then submit a request on the "contact" page.
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: Peering - AS211562
