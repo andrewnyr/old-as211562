@@ -55,7 +55,7 @@ sections:
         no_follow: false
         type: action
       - label: IRR explorer
-        url: '#'
+        url: 'https://irrexplorer.nlnog.net/asn/AS211562'
         style: link
         icon_class: dev
         new_window: false
