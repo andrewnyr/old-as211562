@@ -3,7 +3,7 @@ title: Peering
 subtitle: >-
   To peer with me please read the information about my points-of-presence (POPs)
   below and then submit a request on the "contact" page.
-img_alt: Portrait of a man with beard and mustache
+img_alt: The very best of networking.
 seo:
   title: Peering - AS211562
   description: This is the about me page
