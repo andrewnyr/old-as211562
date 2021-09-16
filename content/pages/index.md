@@ -54,6 +54,18 @@ sections:
         new_window: false
         no_follow: false
         type: action
+      - label: IRR explorer
+        url: 'https://irrexplorer.nlnog.net/asn/AS211562'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+      - label: IPinfo
+        url: 'https://ipinfo.io/AS211562'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
   - title: Supporters
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
