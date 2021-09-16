@@ -1,6 +1,8 @@
 ---
 title: Peering
-subtitle: AS211562 is a small educational network operated by Andrew Asciutto.
+subtitle: >-
+  To peer with me please read the information about my points-of-presence (POPs)
+  below and then submit a request.
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: Peering - AS211562
