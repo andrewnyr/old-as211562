@@ -85,7 +85,7 @@ sections:
       <!---->
 
 
-      *   <https://ihost.group/> - IPv6 Prefix(s)
+      *   [https://as206628.net](https://as206628.net/) - Compute
 
 
       andrewnet is a small network operated by a broke college student. if you
