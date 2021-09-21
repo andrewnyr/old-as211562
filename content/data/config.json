@@ -51,7 +51,7 @@
         ]
     },
     "footer": {
-        "content": "<a href=\"https://www.andrewnet.net\" target=\"_blank\" rel=\"noopener\">part of the andrewnet family of sites</a>.  <br> <a href = \"mailto: abc@example.com\">Send Email</a>"
+        "content": "<a href=\"https://www.andrewnet.net\" target=\"_blank\" rel=\"noopener\">part of the andrewnet family of sites</a>.  <br> <a href = \"mailto: abc@example.com\">noc@andrewnet.net</a>"
     },
     "domain": "https://www.as211562.net",
     "favicon": "images/a-circle-favicon-inverted-vector.svg"
