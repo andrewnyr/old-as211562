@@ -8,6 +8,9 @@ sections:
       To get in touch please fill the form below. Contact me at anytime day or
       night and be sure that I will get back to you at the earliest possible
       convenience.
+
+
+      You may also contact our noc at: noc@as211562.net
     form_id: contactForm
     form_action: /thank-you
     form_fields:
