@@ -51,7 +51,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "#",
-                "style": "button",
+                "style": "icon",
                 "icon_class": "twitter",
                 "new_window": false,
                 "no_follow": false
