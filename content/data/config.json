@@ -47,6 +47,14 @@
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
+            },
+            {
+                "label": "Twitter (Action)",
+                "url": "https://twitter.com/as211562",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
