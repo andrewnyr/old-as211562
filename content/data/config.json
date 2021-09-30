@@ -59,7 +59,7 @@
         ]
     },
     "footer": {
-        "content": "<a href=\"https://www.andrewnet.net\" target=\"_blank\" rel=\"noopener\">part of the andrewnet family of sites</a>.  <br> <a href = \"mailto: noc@as211562.net\">noc@as211562.net</a><br><img     src=\"https://cdn.andrewnet.net/images/assets/ARIN%20Member%20Logo.svg\" height=\"87\"     width=\"100\" />"
+        "content": "<a href=\"https://www.andrewnet.net\" target=\"_blank\" rel=\"noopener\">part of the andrewnet family of sites</a>.  <br> <a href = \"mailto: noc@as211562.net\">noc@as211562.net</a><br><img src=\"https://cdn.andrewnet.net/images/assets/ARIN%20Member%20Logo.svg\" height=\"100\"     width=\"140\" />"
     },
     "domain": "https://www.as211562.net",
     "favicon": "images/a-circle-favicon-inverted-vector.svg"
