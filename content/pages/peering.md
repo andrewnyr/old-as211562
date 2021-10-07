@@ -38,21 +38,19 @@ layout: page
 
 <!---->
 
-*   andrewnet currently is only on the [Experimental Virtual Internet Exchange](https://evix.org/).
-
 *   andrewnet's Toronto peering router is located with the upstream, [GoCodeIt](https://bgp.he.net/AS62513). This box is hosted on the cloud provider, [Xenyth](https://xenyth.net/?affid=29) at Equinix TR2.
 
 <!---->
 
-*   the range broadcasted from this pop is [2605:f440:9f90::/48](https://bgp.he.net/net/2605:f440:9f90::/48).
+*   the range broadcasted from this pop is [2602:fc26:6::/48](https://bgp.he.net/net/2602:fc26:6::/48).
 
 ## New Jersey
 
 *   andrewnet does have a selective policy for who is able to peer with his New Jersey/New York pop due to the fact that he runs a production connection off of this.
 
-*   andrewnet's New Jersey pop obtains transit over a GRE tunnel to upstream(s) [Global Secure Layer](https://bgp.he.net/AS137409) and Neptune Networks.
+*   andrewnet's New Jersey pop obtains transit over a GRE tunnel to upstream [Global Secure Layer](https://bgp.he.net/AS137409).
 
-*   the range broadcasted from this pop is [2605:f440:6969::/48](https://bgp.he.net/net/2605:f440:6969::/48) and [45.41.37.0/24](https://bgp.he.net/net/45.41.37.0/24).
+*   the range broadcasted from this pop are [2605:f440:6969::/48](https://bgp.he.net/net/2605:f440:6969::/48),[ 2602:fc26::/48](https://bgp.he.net/net/2602:fc26::/48), and [45.41.37.0/24](https://bgp.he.net/net/45.41.37.0/24).
 
 ## Netherlands
 
@@ -70,6 +68,14 @@ layout: page
 
 *   andrewnet has a very open peering policy for his Fremont pop and is willing to peer through a tunnel (vxlan preferred).
 
-*   andrewnet's Fremont peering router is located with the upstream, Eric at Hurricane Electric's FMT2 Data Center.
+*   andrewnet's Fremont peering router is located with the upstream, [Eric ](https://ericz.me/)at Hurricane Electric's FMT2 Data Center.
 
-*   the range broadcasted from this pop is [2605:f440:9f91::/48](https://bgp.he.net/net/22605:f440:9f91::/48).
+*   the range broadcasted from this pop is [2602:fc26:2::/48](https://bgp.he.net/net/2602:fc26:2::/48).
+
+# Kansas City
+
+*   andrewnet has a very open peering policy for his Kansas City pop and is willing to peer through a tunnel (vxlan preferred).
+
+*   andrewnet's MCI peering router is located with the upstream, [Fosshost](https://fosshost.org/).
+
+*   the range broadcasted from this pop is [2602:fc26:8::/48](https://bgp.he.net/net/2602:fc26:8::/48).
