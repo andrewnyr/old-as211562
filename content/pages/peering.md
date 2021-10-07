@@ -38,8 +38,6 @@ layout: page
 
 <!---->
 
-*   andrewnet currently is only on the [Experimental Virtual Internet Exchange](https://evix.org/).
-
 *   andrewnet's Toronto peering router is located with the upstream, [GoCodeIt](https://bgp.he.net/AS62513). This box is hosted on the cloud provider, [Xenyth](https://xenyth.net/?affid=29) at Equinix TR2.
 
 <!---->
