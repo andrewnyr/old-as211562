@@ -33,7 +33,7 @@
             },
             {
                 "label": "Status",
-                "url": "#",
+                "url": "https://status.as211562.net",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
