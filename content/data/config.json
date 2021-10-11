@@ -32,7 +32,7 @@
                 "style": "link"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Status",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
