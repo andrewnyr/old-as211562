@@ -27,7 +27,7 @@ sections:
         type: action
         url: /abuse
       - label: PeeringDB
-        url: 'https://www.peeringdb.com/asn/211562'
+        url: 'https://www.as211562.net/peeringdb'
         style: link
         icon_class: dev
         new_window: false
