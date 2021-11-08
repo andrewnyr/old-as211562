@@ -32,13 +32,17 @@ seo:
       relativeUrl: true
 layout: page
 ---
-## Toronto
+## Toronto (TOR1 and TOR2)
 
-*   andrewnet has a very open peering policy for his Toronto pop and is willing to peer through a mutual exchange or through a tunnel (vxlan preferred).
+*   andrewnet has a very open peering policy for both of our Toronto POPs and is willing to peer through a mutual exchange or through a tunnel (vxlan preferred).
 
 <!---->
 
-*   andrewnet's Toronto peering router is located with the upstream, [GoCodeIt](https://bgp.he.net/AS62513). This box is hosted on the cloud provider, [Xenyth](https://xenyth.net/?affid=29) at Equinix TR2.
+*   TOR1's edge router is with the upstreamed with, [GoCodeIt](https://bgp.he.net/AS62513). This box is hosted on the cloud provider, [Xenyth](https://xenyth.net/?affid=29) at Equinix TR2.
+
+<!---->
+
+*   TOR2's core router is located at Oracle and hosts content and services for the network.
 
 <!---->
 
