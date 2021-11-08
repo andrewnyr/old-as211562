@@ -48,7 +48,7 @@ sections:
         no_follow: false
         type: action
       - label: QRATOR
-        url: 'https://radar.qrator.net/as211562'
+        url: 'https://www.as211562.net/qrator'
         style: link
         icon_class: dev
         new_window: false
