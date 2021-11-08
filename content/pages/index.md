@@ -34,7 +34,7 @@ sections:
         no_follow: false
         type: action
       - label: BGP Tools
-        url: 'https://bgp.tools/as/211562'
+        url: 'https://www.as211562.net/tools'
         style: link
         icon_class: dev
         new_window: false
