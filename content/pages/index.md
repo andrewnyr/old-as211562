@@ -41,7 +41,7 @@ sections:
         no_follow: false
         type: action
       - label: BGP.HE.NET
-        url: 'https://bgp.he.net/AS211562'
+        url: 'https://www.as211562.net/hurricane'
         style: link
         icon_class: dev
         new_window: false
