@@ -2,8 +2,7 @@
 title: Contact
 hide_title: false
 sections:
-  - section_id: contact-form
-    type: section_form
+  - type: section_form
     content: >
       To get in touch please fill the form below. Contact me at anytime day or
       night and be sure that I will get back to you at the earliest possible
