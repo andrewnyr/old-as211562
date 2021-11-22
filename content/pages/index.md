@@ -87,6 +87,8 @@ sections:
 
       *   [https://as206628.net](https://as206628.net/) - Compute
 
+      *   <https://www.xenyth.net> - Waived BGP Fee
+
 
       andrewnet is a small network operated by a broke college student. if you
       would like to support me in my goals by hosting a node, providing a
