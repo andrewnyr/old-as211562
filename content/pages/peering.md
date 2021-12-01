@@ -1,8 +1,8 @@
 ---
 title: Peering
 subtitle: >-
-  To peer with me please read the information about my points-of-presence (POPs)
-  below and then submit a request on the "contact" page.
+  To peer with us please read the information about our points-of-presence
+  (POPs) below and then submit a request on the "contact" page.
 img_alt: The very best of networking.
 seo:
   title: Peering - AS211562
@@ -82,4 +82,5 @@ layout: page
 
 *   andrewnet's MCI peering router is located with the upstream, [Fosshost](https://fosshost.org/).
 
-*   the range broadcasted from this pop is [2602:fc26:8::/48](https://bgp.he.net/net/2602:fc26:8::/48).
+*   the range broadcasted from this pop is [2602:fc26:8::/48](https://bgp.he.net/net/2602:fc26:8::/48).Network Map
+

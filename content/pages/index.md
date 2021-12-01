@@ -99,6 +99,13 @@ sections:
       me](https://www.as211562.net/contact/).
     actions: []
     type: section_content
+  - title: Network Map
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: |
+      ![](https://bgp.he.net/graphs/as211562-ipv6.svg)
+    actions: []
+    type: section_content
 seo:
   title: AS211562
   description: The official network of andrewnet.net
