@@ -99,7 +99,7 @@ sections:
       me](https://www.as211562.net/contact/).
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Network Map
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
