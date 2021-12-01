@@ -67,7 +67,7 @@ sections:
         new_window: false
         no_follow: false
   - title: Supporters
-    section_id: lorem-ipsum
+    section_id: supporters
     image_alt: lorem-ipsum
     content: >
       *   <https://www.bakker-it.eu> - IPv6 Prefix(s) and Compute
