@@ -101,13 +101,12 @@ sections:
     type: section_content
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    content: |+
+    content: |
       # Network Map
 
-      <https://bgp.he.net/graphs/as211562-ipv6.svg>
 
 
-
+      ![](https://bgp.he.net/graphs/as211562-ipv6.svg)
     actions: []
     type: section_hero
 seo:
