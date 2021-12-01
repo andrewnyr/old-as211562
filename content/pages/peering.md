@@ -79,3 +79,7 @@ layout: page
 *   andrewnet's MCI peering router is located with the upstream, [Fosshost](https://fosshost.org/).
 
 *   the range broadcasted from this pop is [2602:fc26:8::/48](https://bgp.he.net/net/2602:fc26:8::/48).
+
+
+
+![](https://bgp.he.net/graphs/as211562-ipv6.svg)
