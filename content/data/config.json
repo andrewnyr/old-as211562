@@ -44,7 +44,7 @@
                 "url": "https://lg.as211562.net",
                 "style": "link",
                 "icon_class": "dev",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ],
