@@ -100,7 +100,7 @@ sections:
     actions: []
     type: section_content
   - title: Network Map
-    section_id: lorem-ipsum
+    section_id: network-map
     image_alt: lorem-ipsum
     content: |
       ![](https://bgp.he.net/graphs/as211562-ipv6.svg)
