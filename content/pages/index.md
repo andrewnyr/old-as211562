@@ -102,9 +102,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content: |
-      # Network Map
-
-
+      #
 
       ![](https://bgp.he.net/graphs/as211562-ipv6.svg)
     actions: []
